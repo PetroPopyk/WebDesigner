@@ -958,6 +958,9 @@ main {
 }
 
 @media screen and (max-width: 479px) {
+    .wrapper-logo{
+        margin-right:30%;
+    }
     .container__wrapper {
         max-width: 320px;
     }
